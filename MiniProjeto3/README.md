@@ -33,13 +33,13 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
 4. Qual a média salarial mensal? 6.927,51.
 
 
-5. Qual o total de funcionários por função?
+5. Qual o total de funcionários por função? 638 Cientistas de Dados, 246 Analistas de Dados, 176 Engenheiros de IA, 139 Arquitetos de Dados, 125 Engenheiros de Dados, 76 Engenheiros Analíticos.
 
 
 6. Qual o percentual de funcionários disponíveis para fazer hora extra? 28,43%
 
 
-7. Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
+7. Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto? 79 (5,64%) para Ruim, 356 (25,43%) para Baixo, 826 (59%) para Médio, 139 (9,93 %) para Alto.
 
 
 8. Este item não deve estar no Dashboard, mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considere a coluna “Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde a última promoção, deve ter a promoção considerada. Caso contrário, a promoção não deve ser considerada agora.
