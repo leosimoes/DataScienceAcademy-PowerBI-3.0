@@ -7,6 +7,7 @@ Atividades do curso Microsoft Power BI Para Data Science, Versão 3.0, da Data S
 - Mini-Projeto 1 - Análise de Campanhas de Marketing
 - Mini-Projeto 2 - Dashboard Comercial - Perfomance de Vendas
 - Mini-Projeto 3 - Análise de dados de RH com Power BI
+- Mini-Projeto 4 - Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área Logística
 
 
 ## Arquivos
