@@ -10,7 +10,7 @@ Atividades do curso Microsoft Power BI Para Data Science, Versão 3.0, da Data S
 - Mini-Projeto 3 - Análise de dados de RH com Power BI
 - Mini-Projeto 4 - Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área Logística
 - Mini-Projeto 5 - Dashboard de Análise Financeira
-
+- Mini-Projeto 6 - Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
 
 ## Arquivos
 As pastas dos projetos contém arquivos .pbix dos dashboards, e imagens em arquivos .png dos dashboards e dos formatos de dados.
