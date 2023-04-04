@@ -5,6 +5,7 @@ Atividades do curso Microsoft Power BI Para Data Science, Versão 3.0, da Data S
 - Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 - Lab 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 - Lab 3 - Análise de Dados Contábeis - Balanço Patrimonial
+- Lab 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes
 - Mini-Projeto 1 - Análise de Campanhas de Marketing
 - Mini-Projeto 2 - Dashboard Comercial - Perfomance de Vendas
 - Mini-Projeto 3 - Análise de dados de RH com Power BI
