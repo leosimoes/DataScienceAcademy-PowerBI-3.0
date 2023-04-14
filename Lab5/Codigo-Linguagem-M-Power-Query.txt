@@ -1,0 +1,46 @@
+// Lab 5 - Engenharia de Atributos com Linguagem M no Power BI
+// Data: 14/04/2023
+// Estudante: Leonardo Simões
+
+let
+    // Diretório do Arquivo
+    ARQUIVO = "D:\Projetos\PowerBI\DataScienceAcademy-PowerBI-3.0\Lab5\Clientes.csv",
+
+    // Etapa 1 - Fonte - Carregamento dos dados
+    #"1 - Fonte" = Csv.Document(File.Contents(ARQUIVO), [Delimiter=",", Columns=10, Encoding=65001, QuoteStyle = QuoteStyle.None]),
+
+    // Etapa 2 - Cabeçalhos Promovidos - Promove a primeira linha do dataset para nomes dos cabeçalhos
+    #"2 - Cabeçalhos Promovidos" = Table.PromoteHeaders(#"1 - Fonte", [PromoteAllScalars=true]),
+
+    // Etapa 3 - Tipo Alterado - Converte as colunas para os tipos inferidos automaticamente
+    #"3 - Tipo Alterado" = Table.TransformColumnTypes(#"2 - Cabeçalhos Promovidos", {
+        {"Idade", Int64.Type},
+        {"Peso", Int64.Type},
+        {"Altura", Int64.Type},
+        {"Limite de Credito", Int64.Type},
+        {"Valor Desconto", Int64.Type},
+        {"Valor Compra", Int64.Type}
+    }),
+
+    // Etapa 4 - Substituir Erros em Idade
+    #"4 - Valores de Erros Substituidos em Idade" = Table.ReplaceErrorValues(#"3 - Tipo Alterado", {"Idade", 45}),
+
+    // Etapa 5 - Coluna Removida - Estado Civil
+    #"5 - Coluna Removida - Estado Civil" = Table.RemoveColumns(#"4 - Valores de Erros Substituidos em Idade", {"Estado Civil"}),
+
+    // Etapa 6 - Dividir Coluna ID Cliente em duas
+    #"6 - Coluna ID dividida" = Table.SplitColumn(#"5 - Coluna Removida - Estado Civil", "ID_Cliente", Splitter.SplitTextByPositions({0, 4}, false), {"Código", "ID"}),
+
+    // Etapa 7 - Adicionar Coluna Desconto Especial
+    #"7 - Coluna Desconto Especial Adionada" = Table.AddColumn(#"6 - Coluna ID dividida", "Percentual Desconto Especial", 
+        each if [Tipo de Cliente] = "Diamante" then 0.20 
+        else if [Tipo de Cliente] = "Ouro" then 0.15
+        else if [Tipo de Cliente] = "Prata" then 0.10
+        else if [Tipo de Cliente] = "Bronze" then 0.05
+        else 0, 
+        type number),
+
+    // Etapa 8 - Aplicar Log10 em Limite de Credito
+    #"8 - Coluna Limite de Credito para Log10" = Table.TransformColumns(#"7 - Coluna Desconto Especial Adionada", {{"Limite de Credito", Number.Log10, type number}})
+in
+    #"8 - Coluna Limite de Credito para Log10"
