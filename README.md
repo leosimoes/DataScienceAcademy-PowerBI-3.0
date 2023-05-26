@@ -9,6 +9,7 @@ Atividades do curso Microsoft Power BI Para Data Science, Versão 3.0, da Data S
 - Lab 5 - Engenharia de Atributos com Linguagem M no Power BI
 - Lab 7 - Machine Learning com Linguagem Python e Power BI Dentro do Jupyter Notebook
 - Lab 8 - Detecção de Anomalias em Transações Financeiras com Linguagem Python e Power BI
+- Lab 9 - Engenharia de Producão com Power BI e IA Prevendo a Produção Industrial ao Longo do Tempo
 - Mini-Projeto 1 - Análise de Campanhas de Marketing
 - Mini-Projeto 2 - Dashboard Comercial - Perfomance de Vendas
 - Mini-Projeto 3 - Análise de dados de RH com Power BI
