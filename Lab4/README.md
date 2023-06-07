@@ -21,12 +21,12 @@ Para Business Intelligence e Data Science 3.0 da Data Science Academy.
 
 ### Dataset
 <div style="text-align: center;">
-    <img src="Lab4-Dataset.PNG" width="60%"/>
+    <img src="Lab4-Dataset.PNG" width="30%"/>
 </div>
 
 ### Medidas
 <div style="text-align: center;">
-    <img src="Lab4-Medidas.PNG" width="60%"/>
+    <img src="Lab4-Medidas.PNG" width="100%"/>
 </div>
 
 ## Limpeza dos Dados
