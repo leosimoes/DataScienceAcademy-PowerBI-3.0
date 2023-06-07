@@ -1,13 +1,13 @@
-# Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
+# Lab 1 - Dashboard Analítico de Vendas Globais
 
 Atividade prática do Capítulo 2 do curso Microsoft Power BI Para Business Intelligence e Data Science 3.0 da Data Science Academy.
 
 ## Arquivos
-- LaboratorioPratico1.pbix: arquivo do Power BI
-- LaboratorioPratico1-Dashboard.png: print do dashboard
-- LaboratorioPratico1-Dashboard-Mobile.png: print do dashboard mobile
-- LaboratorioPratico1-Dataset.png: print da tabela do dataset
-- LaboratorioPratico1-Relatorio.pdf: Documento pdf gerado pelo Power BI
+- Lab1.pbix: arquivo do Power BI
+- Lab1-Dashboard.png: print do dashboard
+- Lab1-Dashboard-Mobile.png: print do dashboard mobile
+- Lab1-Dataset.png: print da tabela do dataset
+- Lab1-Relatorio.pdf: Documento pdf gerado pelo Power BI
 
 
 ## Formato dos dados
@@ -15,17 +15,17 @@ Os dados são de vendas de uma empresa fictícia que comercializa produtos em to
 mundo.
 
 <div style="text-align: center;">
-    <img src="LaboratorioPratico1-Dataset.png" width="40%"/>
+    <img src="Lab1-Dataset.png" width="30%"/>
 </div>
 
 ## Dashboard
 <div style="text-align: center;">
-    <img src="LaboratorioPratico1-Dashboard.png"/>
+    <img src="Lab1-Dashboard.png"/>
 </div>
 
 ## Dashboard Mobile
 <div style="text-align: center;">
-    <img src="LaboratorioPratico1-Dashboard-Mobile.png" width="40%" />
+    <img src="Lab1-Dashboard-Mobile.png" width="30%" />
 </div>
 
 
@@ -52,6 +52,7 @@ A média geral foi de 14%.
 Lesoto, Montenegro, Chade.
 
 ## Referências
-Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 20/01/2023
+Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: 
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 20/01/2023
 
 
