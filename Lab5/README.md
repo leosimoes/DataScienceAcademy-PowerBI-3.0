@@ -12,13 +12,13 @@ Para Business Intelligence e Data Science 3.0 da Data Science Academy.
 
 ## Formato dos dados
 <div style="text-align: center;">
-    <img src="Lab5-Dataset.PNG" width="45%"/>
+    <img src="Lab5-Dataset.png" width="25%"/>
 </div>
 
 
 ## Dashboard
 <div style="text-align: center;">
-    <img src="Lab5-Dashboard.PNG"/>
+    <img src="Lab5-Dashboard.png"/>
 </div>
 
 
