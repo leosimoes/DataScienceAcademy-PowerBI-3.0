@@ -1,5 +1,6 @@
-# Dashboard de Análise Financeira
+# Mini-Projeto 5 - Dashboard de Análise Financeira
 Atividade prática do Capítulo 8 do curso Microsoft Power BI Para Business Intelligence e Data Science 3.0 da Data Science Academy.
+
 
 ## Arquivos
 - MiniProjeto5.pbix: arquivo do Power BI.
@@ -30,7 +31,7 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 Foi usado um pivoteamento de colunas e criada uma tabela para medidas.
 
 <div style="text-align: center;">
-    <img src="MiniProjeto5-Dataset.PNG" width="50%"/>
+    <img src="MiniProjeto5-Dataset.PNG" width="55%"/>
 </div>
 
 
@@ -41,4 +42,5 @@ Foi usado um pivoteamento de colunas e criada uma tabela para medidas.
 
 
 ## Referências
-Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 12/03/2023.
+Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: 
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 10/06/2023.
