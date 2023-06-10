@@ -1,5 +1,7 @@
 # Mini-Projeto 6 - Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
+
 Atividade prática do Capítulo 10 do curso Microsoft Power BI Para Business Intelligence e Data Science 3.0 da Data Science Academy.
+
 
 ## Arquivos
 - MiniProjeto6.pbix: arquivo do Power BI.
@@ -26,7 +28,7 @@ O Dashboard deverá responder a estas perguntas de negócio abaixo:
 Os dados foram extraídos do site da Nasdaq e filtrados pela Data Science Academy.
 
 <div style="text-align: center;">
-    <img src="MiniProjeto6-Dataset.PNG" width="60%"/>
+    <img src="MiniProjeto6-Dataset.PNG" width="35%"/>
 </div>
 
 
@@ -37,6 +39,7 @@ Os dados foram extraídos do site da Nasdaq e filtrados pela Data Science Academ
 
 
 ## Referências
-Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 14/03/2023.
+Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: 
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 10/06/2023.
 
 Nasdaq: https://www.nasdaq.com/ , acessado em 14/03/2023.
