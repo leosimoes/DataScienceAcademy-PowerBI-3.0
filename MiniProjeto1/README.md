@@ -2,6 +2,7 @@
 
 Atividade prática do Capítulo 4 do curso Microsoft Power BI Para Business Intelligence e Data Science 3.0 da Data Science Academy.
 
+
 ## Arquivos
 - MiniProjeto1.pbix: arquivo do Power BI
 - MiniProjeto1-Dashboard1.PNG: print do dashboard 1 - Visão do Cliente
@@ -14,25 +15,28 @@ Atividade prática do Capítulo 4 do curso Microsoft Power BI Para Business Inte
 
 
 ## Formato dos dados
-
 <div style="text-align: center;">
-    <img src="MiniProjeto1-Dataset.PNG" width="40%"/>
+    <img src="MiniProjeto1-Dataset.PNG" width="35%"/>
 </div>
+
 
 ## Dashboard 1 - Visão do Cliente
 <div style="text-align: center;">
     <img src="MiniProjeto1-Dashboard1.PNG"/>
 </div>
 
+
 ## Dashboard 2 - Visão do Comportamento de Compra do Cliente
 <div style="text-align: center;">
     <img src="MiniProjeto1-Dashboard2.PNG"/>
 </div>
 
+
 ## Dashboard 3 - Visão das Campanhas de Marketing
 <div style="text-align: center;">
     <img src="MiniProjeto1-Dashboard3.PNG"/>
 </div>
+
 
 ## Dashboard 4 - Visão dos Pontos de Vendas
 <div style="text-align: center;">
@@ -46,4 +50,6 @@ Atividade prática do Capítulo 4 do curso Microsoft Power BI Para Business Inte
 </div>
 
 
-
+## Referências
+Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: 
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 10/06/2023.
