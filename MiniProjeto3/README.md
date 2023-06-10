@@ -11,13 +11,15 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
 
 ## Formato dos dados
 <div style="text-align: center;">
-    <img src="MiniProjeto3-Dataset.PNG" width="40%"/>
+    <img src="MiniProjeto3-Dataset.PNG" width="50%"/>
 </div>
+
 
 ## Dashboard
 <div style="text-align: center;">
     <img src="MiniProjeto3-Dashboard1.PNG"/>
 </div>
+
 
 ## Perguntas e Respostas
 
@@ -48,5 +50,5 @@ Funcionário que não devem receber promoção: 1153 (82,36 %).
 
 
 ## Referências
-Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 09/03/2023
-
+Data Science Academy - Microsoft Power BI Para Business Intelligence e Data Science 3.0: 
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science , acessado em 10/06/2023.
