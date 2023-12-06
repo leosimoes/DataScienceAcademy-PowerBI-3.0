@@ -27,5 +27,10 @@ Os arquivos de fontes de dados não se encontram no diretório.
 Para reproduzir os dashboards é necessário fazer o download dos arquivos de dados no site do curso e configurar as fontes de dados.
 
 
+## Certificado
+
+![Cetificado](certificado.jpg)
+
+
 ## Referências
 https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science , acessado em 15/08/2023.
