@@ -2,3 +2,13 @@
 *.py linguist-detectable=false
 *.ipynb linguist-detectable=false
 *.html linguist-detectable=false
+*.png linguist-detectable=false
+*.PNG linguist-detectable=false
+*.pdf linguist-detectable=false
+*.pbix linguist-detectable=false
+*.md linguist-detectable=true
+*.md linguist-language=Text
+*.md linguist-documentation=false
+*.txt linguist-detectable=true
+*.txt linguist-language=Text
+*.md linguist-documentation=false
